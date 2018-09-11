@@ -1,0 +1,7 @@
+/**
+* Declarar Variaveis - Contrutor .this
+* UnderLine "_" atributos privados
+* Criar Metodos
+* Set - Atriburir valor
+* get - receber valor
+*/
